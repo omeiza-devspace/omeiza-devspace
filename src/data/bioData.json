@@ -1,0 +1,23 @@
+{
+  "image": {
+    "src": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGVvcGxlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "alt": "A Picture of Author"
+  },
+  "profile": "I am  ...",
+  "name": "Omeiza Okuta",
+  "position": "Software Engineer | DevOps Engineer",
+  "contactLinks": [
+    {
+      "icon": "linkedin",
+      "url": "https://www.linkedin.com/in/arpad-gabor-bondor/"
+    },
+    {
+      "icon": "github",
+      "url": "https://github.com/ArpadGBondor"
+    },
+    {
+      "icon": "email",
+      "url": "mailto:arpad.g.bondor@gmail.com"
+    }
+  ]
+}

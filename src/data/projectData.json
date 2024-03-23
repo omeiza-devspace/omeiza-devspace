@@ -1,0 +1,87 @@
+[
+    {
+      "title": "React Website",
+      "categories": ["web"],
+      "description": "A modern website built with React.js.",
+      "image": "https://via.placeholder.com/300x200",
+      "technologies": ["React", "Node.js", "MongoDB"]
+    },
+    {
+      "title": "Mobile App",
+      "categories": ["mobile"],
+      "description": "A mobile application developed for iOS and Android.",
+      "image": "https://via.placeholder.com/300x200",
+      "technologies": ["Vue", "Express", "PostgreSQL"]
+    },
+    {
+      "title": "E-commerce Platform",
+      "categories": ["web"],
+      "description": "An e-commerce platform built with Node.js and React.",
+      "image": "https://via.placeholder.com/300x200",
+      "technologies": ["Angular", "Django", "MySQL"]
+    },
+    {
+      "title": "React Website 2",
+      "categories": ["web"],
+      "description": "A modern website built with React.js.",
+      "image": "https://via.placeholder.com/300x200",
+      "technologies": ["React", "Node.js", "MongoDB"]
+    },
+    {
+      "title": "Mobile App 3",
+      "categories": ["mobile"],
+      "description": "A mobile application developed for iOS and Android.",
+      "image": "https://via.placeholder.com/300x200",
+      "technologies": ["Vue", "Express", "PostgreSQL"]
+    },
+    {
+      "title": "E-commerce Platform 4",
+      "categories": ["web"],
+      "description": "An e-commerce platform built with Node.js and React.",
+      "image": "https://via.placeholder.com/300x200",
+      "technologies": ["Angular", "Django", "MySQL"]
+    },
+    {
+      "title": "React Website 5",
+      "categories": ["web"],
+      "description": "A modern website built with React.js.",
+      "image": "https://via.placeholder.com/300x200",
+      "technologies": ["React", "Node.js", "MongoDB"]
+    },
+    {
+      "title": "Mobile App 6",
+      "categories": ["mobile"],
+      "description": "A mobile application developed for iOS and Android.",
+      "image": "https://via.placeholder.com/300x200",
+      "technologies": ["Vue", "Express", "PostgreSQL"]
+    },
+    {
+      "title": "E-commerce Platform 8" ,
+      "categories": ["web"],
+      "description": "An e-commerce platform built with Node.js and React.",
+      "image": "https://via.placeholder.com/300x200",
+      "technologies": ["Angular", "Django", "MySQL"]
+    },
+    {
+      "title": "React Website 9",
+      "categories": ["web"],
+      "description": "A modern website built with React.js.",
+      "image": "https://via.placeholder.com/300x200",
+      "technologies": ["React", "Node.js", "MongoDB"]
+    },
+    {
+      "title": "Mobile App 10",
+      "categories": ["mobile"],
+      "description": "A mobile application developed for iOS and Android.",
+      "image": "https://via.placeholder.com/300x200",
+      "technologies": ["Vue", "Express", "PostgreSQL"]
+    },
+    {
+      "title": "E-commerce Platform 11" ,
+      "categories": ["web"],
+      "description": "An e-commerce platform built with Node.js and React.",
+      "image": "https://via.placeholder.com/300x200",
+      "technologies": ["Angular", "Django", "MySQL"]
+    }
+  ]
+  

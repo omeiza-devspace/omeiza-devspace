@@ -1,0 +1,12 @@
+:root{
+    --main-1-color: #42f2d2; /* #74ef89; */
+    --main-2-color: #4263f2; /* #74dbef; */
+    --main-3-color: #8942f2; /* #7e74ef; */
+    --highlight-color: rgba(245, 145, 66, 0.70);
+    /* --highlight-color: rgba(239, 120, 116, 0.70); */
+    --highlight-full-color: rgba(245, 145, 66, 1);
+    /* --highlight-full-color: rgba(239, 120, 116, 1); */
+    --trans-light-color: rgba(255, 255, 255, 0.7);
+    --trans-dark-color: rgba(0, 0, 0, 0.7);
+  }
+  

@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Frontend",
+      "tags": ["React", "Vue", "Angular"],
+      "skills": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Backend",
+      "tags": ["Node.js", "Express", "Django"],
+      "skills": ["Python", "JavaScript"]
+    },
+    {
+      "name": "Database",
+      "tags": ["MongoDB", "MySQL", "PostgreSQL"],
+      "skills": ["SQL"]
+    }
+  ]
+  

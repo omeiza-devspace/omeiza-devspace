@@ -1,0 +1,264 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    background-color: var(--main-2-color);
+    color: var(--trans-light-color);
+  }
+  
+  h2 {
+    margin-bottom: 2rem;
+  }
+  
+  p {
+    margin-bottom: 0;
+  }
+  
+  mark,
+  .mark {
+    color: white;
+    background-color: transparent;
+  }
+  
+  a {
+    color: var(--highlight-color);
+  }
+  
+  a:hover,
+  a:active {
+    color: var(--highlight-full-color);
+  }
+  
+  a:visited {
+    color: var(--highlight-full-color);
+  }
+  
+  .section-color-light {
+    background-color: var(--trans-light-color);
+    color: var(--trans-dark-color);
+  }
+  
+  .section-color-light mark,
+  .section-color-light .mark {
+    color: var(--main-2-color);
+    background-color: transparent;
+  }
+  
+  /* Button */
+  
+  .btn {
+    background-color: var(--trans-light-color);
+    color: var(--trans-dark-color);
+    margin: 0.5rem 1rem;
+  }
+  
+  .section-color-light .btn {
+    background-color: var(--main-2-color);
+    color: var(--trans-light-color);
+  }
+  
+  .section-color-light .btn:hover {
+    color: white;
+  }
+  
+  /* NAVBAR */
+  .navbar {
+    background-color: var(--main-2-color);
+    font-weight: bold;
+  }
+  
+  /* HEADER */
+  .header {
+    min-height: 100vh;
+  }
+  
+  .header-info {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: 100%;
+  }
+  
+  .profile-picture {
+    margin: 3%;
+    max-width: 40%;
+    max-height: 40%;
+    border-radius: 50%;
+    border: 0.5rem solid var(--main-2-color);
+  }
+  
+  .contact-icon {
+    margin: 1rem;
+    color: var(--trans-dark-color);
+    font-size: 2.5rem;
+  }
+  
+  .contact-icon:hover {
+    color: black;
+  }
+  
+  .header-introduction {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  
+  .introduction {
+    text-align: justify;
+    max-width: 35rem;
+    margin: 3%;
+    font-family: 'Kalam', cursive;
+  }
+  
+  /* EXPERIENCE */
+  .experience-row {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+  }
+  
+  /* EDUCATION */
+  .education-row {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+  }
+  
+  /* QUALIFICATIONS */
+  .qualifications-row {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  /* SKILLS */
+  .skills-row {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  /* AWARDS */
+  .awards-row {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+  }
+  
+  .awards-rank {
+    font-weight: bold;
+  }
+  
+  .awards-date {
+    font-weight: bold;
+  }
+  
+  .awards-column {
+    padding: 2%;
+  }
+  
+  .awards-card-body {
+    text-align: center;
+  }
+  
+  .awards-card-footer {
+    text-align: center;
+  }
+  
+  .awards-icon {
+    margin: 0.5rem;
+    color: var(--trans-dark-color);
+    font-size: 2rem;
+  }
+  
+  /* INTERESTS */
+  .interests-icon {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: white;
+    text-align: center;
+  }
+  .interests-p {
+    text-align: justify;
+  }
+  
+  /* FOOTER */
+  .footer {
+    text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+  
+  .align-right {
+    text-align: right;
+  }
+  
+  .resume-section {
+    display: flex;
+    align-items: center;
+    padding: 5%;
+  }
+  
+  .section-content {
+    width: 100%;
+  }
+  
+  @media screen and (min-width: 768px) {
+    .resume-section {
+      min-height: 100vh;
+    }
+  }
+  
+  .print-only {
+    display: none;
+  }
+  
+  @media print {
+    body,
+    a,
+    .section-color-light,
+    .btn,
+    .section-color-light .btn,
+    .contact-icon,
+    .awards-icon,
+    .interests-icon {
+      color: black;
+      background-color: transparent;
+    }
+  
+    mark,
+    .mark,
+    .section-color-light mark,
+    .section-color-light .mark {
+      color: darkgray;
+      background-color: transparent;
+    }
+  
+    .print-inline {
+      display: inline;
+    }
+  
+    .print-block {
+      display: block;
+    }
+  
+    .contact-icon {
+      font-size: 1rem;
+    }
+  
+    .btn,
+    .btn-lg {
+      display: inline;
+      margin: 0;
+      padding: 0;
+      border: 0;
+      font-size: 1rem;
+    }
+  }
+  

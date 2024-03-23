@@ -1,0 +1,17 @@
+[
+  {
+    "text": "example@example.com",
+    "icon": "@",
+    "url": "mailto:example@example.com"
+  },
+  {
+    "text": "+1234567890",
+    "icon": "Phone",
+    "url": "tel:+1234567890"
+  },
+  {
+    "text": "https://www.linkedin.com/in/your-profile",
+    "icon": "LinkedIn",
+    "url": "https://www.linkedin.com/in/your-profile"
+  }
+]
